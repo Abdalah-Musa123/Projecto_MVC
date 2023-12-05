@@ -1,0 +1,42 @@
+﻿@model Air2.Models.Vuelo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Vuelo</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Origen)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Origen)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Destino)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Destino)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HoraVuelo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HoraVuelo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.BaseMantenimiento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.BaseMantenimiento)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Codigo">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

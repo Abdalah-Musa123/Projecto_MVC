@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Air2
+build_property.RootNamespace = Air2
+build_property.ProjectDir = C:\Users\abdal\source\repos\Air2\Air2\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\abdal\source\repos\Air2\Air2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Pilotoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Pilotoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Pilotoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Pilotoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Pilotoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Tripulacions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHVsYWNpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Tripulacions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHVsYWNpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Tripulacions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHVsYWNpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Tripulacions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHVsYWNpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Tripulacions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHVsYWNpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Vueloes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Vueloes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Vueloes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Vueloes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Vueloes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdal/source/repos/Air2/Air2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5qfd4uywjt
